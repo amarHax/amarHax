@@ -9,8 +9,8 @@
 
 #### 📧 Let's Connect!🌱Feel free to reach out for💞️collaboration opportunities. </br> 💼 Open to exciting projects and cybersecurity challenges! Let's secure the digital world together.🌐🔐
 
-🔒🚀 [**Aniket Tomar**](https://github.com/Binary0101Devil)  </br>
-**Penetration Tester CUM Security Auditor** at **Phoenix TechnoCyber**👋
+🔒🚀 [**Amar Nath Pandey**](https://github.com/amarHax/amarHax)  </br>
+**Penetration Tester CUM Secrity Auditor** at **Phoenix TechnoCyber**👋
 
 
 🔍 Certified  Ethical Hacker (CEH) - EC-Council 🎓</br>
