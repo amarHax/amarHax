@@ -1,6 +1,6 @@
  # 📫 How to reach me...
   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://binary0101devil.gitbook.io/blogs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/amarHax/amarHax)
 [![gitbook](https://img.shields.io/badge/gitbook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.linkedin.com/in/aniket-tomar-1a735b232)
 [![Website](https://img.shields.io/badge/Website-113B92?style=for-the-badge&logo=Website&logoColor=white)](https://binary0101devil.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aniket-tomar-1a735b232)
