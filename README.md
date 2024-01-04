@@ -13,7 +13,7 @@
 **Penetration Tester CUM Security Auditor** at **Phoenix TechnoCyber**👋
 
 
-🔍 Certified Ethical Hacker (CEH) - EC-Council 🎓</br>
+🔍 Certified  Ethical Hacker (CEH) - EC-Council 🎓</br>
 🔍 Ethical Hacking Essentials(EHE)- EC-Council 🎓</br>
 🔍 eLearnSecurity Junior Penetration Tester (eJPT) - eLearnSecurity 🎓
 
