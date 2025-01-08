@@ -29,12 +29,14 @@
 - 💬 Technical Support
 
 💼 **Experience:**
-- Seven Months at [IntelliPlanner Software Systems, Inc.](https://www.intelliplanner.com/)
+- Apr 2024 - Present at [Preview Technologies Private Limited.](https://www.previewtechnologies.com/)
+- 1 year 3 months at [Phoenix TechnoCyber Private Limited.](https://p-technocyber.com/)
+- 1 year 11 months at [GS2 CYBER SECURITY Private Limited.](https://gs2cybersec.com/)
 
 💪 **Skills:** HTML, CSS, XML, JAVA, PYTHON, JAVASCRIPT, SQL, Bash Scripting, AWS, C#, 
 
 🏆 **CTF Enthusiast:** 🚀
-- 🌐[TryHackMe](https://tryhackme.com/)
+- 🌐[TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=966905" style='border:none;'></iframe>)
 - 🔓[Hack the Box](https://www.hackthebox.eu/)
 - 🗝️[Over the Wire](http://overthewire.org/)
 - 🕵️[Vulnhub](https://www.vulnhub.com/)
