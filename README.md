@@ -36,7 +36,7 @@
 💪 **Skills:** HTML, CSS, XML, JAVA, PYTHON, JAVASCRIPT, SQL, Bash Scripting, AWS, C#, 
 
 🏆 **CTF Enthusiast:** 🚀
-- 🌐[TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=966905" style='border:none;'></iframe>)
+- 🌐[TryHackMe](https://tryhackme.com/r/p/amarHax)
 - 🔓[Hack the Box](https://www.hackthebox.eu/)
 - 🗝️[Over the Wire](http://overthewire.org/)
 - 🕵️[Vulnhub](https://www.vulnhub.com/)
