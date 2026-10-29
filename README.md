@@ -1,6 +1,7 @@
 # Amar Nath Pandey
 
-**Penetration Tester & Cyber Security Auditor**  
+**Head of Information Security | Lead Penetration Tester (VAPT)**  
+**Cloud (AWS/Azure) & Infrastructure Architect**  
 **Web · API · Android/iOS · Cloud · Infrastructure Security**
 
 I help organisations identify exploitable security weaknesses, strengthen applications and infrastructure, and turn assessment findings into practical remediation.
@@ -36,9 +37,24 @@ With **5+ years of hands-on cybersecurity experience**, my work spans vulnerabil
 
 | Organisation | Role | Period |
 | --- | --- | --- |
-| **Preview Technologies Pvt. Ltd.** | Penetration Tester / Cyber Security Auditor | Apr 2024 – Present |
+| **Preview Technologies Pvt. Ltd.** | Head of Information Security (previously Cyber Security Auditor) | Apr 2024 – Present |
 | **Phoenix Technocyber Pvt. Ltd.** | Cyber Security Auditor | Feb 2023 – Apr 2024 |
 | **GS2 Cyber Security Pvt. Ltd.** | Cyber Security Analyst | Apr 2021 – Feb 2023 |
+
+### Current role — Head of Information Security
+
+**Preview Technologies Pvt. Ltd. · April 2024 – Present**  
+**Role progression:** Promoted from Cyber Security Auditor to Head of Information Security.
+
+- **Information Security Leadership & Secure SDLC:** Lead the information security programme, integrate SAST/DAST and manual secure code reviews into development, and guide teams on vulnerability remediation.
+- **Secure Infrastructure Architecture:** Design, build and deploy Windows/Linux infrastructure, firewalls, VPNs, reverse proxies, network segmentation and zero-trust access controls.
+- **AWS & Azure Cloud Security:** Architect, audit and harden cloud environments, review IAM and network controls, test for misconfigurations and support secure deployments.
+- **Web, API & Mobile VAPT:** Assess web applications, REST/GraphQL APIs and Android/iOS applications; validate findings and provide actionable remediation guidance.
+- **Mobile Reverse Engineering:** Perform static/dynamic analysis, runtime instrumentation, SSL pinning testing and binary analysis using Frida, Objection, JADX, Ghidra and related tools.
+- **Enterprise Mail Security & Migration:** Deploy, migrate and secure Zimbra, Mailcow and Carbonio platforms, including SPF, DKIM, DMARC, anti-spam and TLS controls.
+- **VoIP & Asterisk PBX Security:** Configure SIP/PJSIP trunks and dialplans; implement SRTP/TLS, ACLs, firewall controls and Fail2ban protections.
+- **Digital Forensics & Data Recovery:** Investigate compromised endpoints and servers, analyse disk/memory evidence, support containment and root-cause analysis, and recover deleted or corrupted data.
+- **Active Directory & Server Hardening:** Assess AD security and privilege escalation risks, support secure production migrations, and harden Windows/Linux systems against CIS benchmarks.
 
 **Based in Lucknow, Uttar Pradesh · Hometown: Bihar, India**
 
